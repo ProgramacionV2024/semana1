@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">semana1</string>
+    <string-array name="opciones_spinner">
+        <item>Soltero</item>
+        <item>Casado</item>
+        <item>Viudo</item>
+        <!-- Agrega más elementos según sea necesario -->
+    </string-array>
+</resources>
